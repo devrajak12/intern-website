@@ -1,0 +1,293 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* header content */
+header {
+    display: flex;
+}
+
+header p {
+    font-size: 35px;
+    padding-left: 43px;
+    font-weight: bold;
+}
+
+header ul {
+    display: flex;
+    list-style: none;
+    padding-left: 1074px;
+}
+
+header ul li {
+    padding: 12px;
+    color: grey;
+}
+
+/* section 1 content */
+.sec1_md {
+    display: flex;
+}
+
+.md_div1 {
+    height: max-content;
+    width: max-content;
+    margin-top: 180px;
+    margin-left: 43px;
+}
+
+.md_div1_p {
+    font-size: 18px;
+    color: rgb(147, 99, 95);
+}
+
+.md_div1_h1 {
+    font-size: 41px;
+    padding-top: 6px;
+}
+
+.md_div1_p1 {
+    font-size: 21px;
+    padding-top: 31px;
+
+}
+
+.md_div1_p2 {
+    padding-top: 42px;
+    color: rgb(147, 99, 95);
+}
+
+.md_div2 {
+    width: 775px;
+    margin-left: 428px;
+    margin-top: 56px;
+}
+
+.img1 {
+    position: relative;
+    z-index: 1;
+}
+
+.img2 {
+    position: relative;
+    z-index: 2;
+}
+
+.img3 {
+    position: relative;
+    z-index: 3;
+    left: 388px;
+    bottom: 457px;
+    margin-top: -260px;
+}
+
+.md_div2_p {
+    font-size: 31px;
+    background-color: black;
+    color: rgb(230, 119, 34);
+    margin-bottom: 6px;
+}
+
+.sec1_md2 {
+    display: flex;
+}
+
+.div_bar {
+    padding: 44px;
+    padding-top: 185px;
+    padding-right: 17px;
+}
+
+.div_bar_p1 {
+    color: rgb(147, 99, 95);
+    padding-top: 16px;
+    font-size: 19px;
+}
+
+.div_bar_p2 {
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 12px;
+}
+
+.div_bar_p3 {
+    font-size: 19px;
+    padding-top: 12px;
+}
+
+.hr {
+    border-bottom: 2px solid;
+    width: 1751px;
+    margin-left: 40px;
+    color: #dbd7d7;
+
+}
+
+.hr1 {
+    border-bottom: 2px solid;
+    width: 1751px;
+    margin-left: 40px;
+    color: #dbd7d7;
+    margin-top: 85px;
+}
+
+.sec1_md3 {
+    margin: 123px;
+    margin-left: 123px;
+    margin-left: 586px;
+}
+
+.sec1_md3 p {
+    color: rgb(147, 99, 95);
+    text-align: center;
+    padding-right: 345px;
+    margin-bottom: 10px;
+    margin-top: 18px;
+}
+
+.sec1_md3 h1 {
+    font-size: 37px;
+    text-align: center;
+    margin-right: 287px;
+}
+
+.hr3 {
+    border-bottom: 2px solid;
+    width: 1751px;
+    margin-left: 40px;
+    color: #dbd7d7;
+    margin-top: 85px;
+}
+
+.sec1_h1 {
+    margin: 38px;
+    margin-top: 79px;
+    font-size: 32px;
+}
+
+.sec1_md4 {
+    display: flex;
+}
+
+.div_bar1 {
+    padding: 44px;
+    padding-top: -150px;
+    padding-right: 17px;
+}
+
+.sec1_md5 {
+    display: flex;
+}
+
+.sec1_md5_d1 {
+    margin-top: 375px;
+    margin-left: 287px;
+}
+
+.sec1_md5_d1 h1 {
+    font-size: 36px;
+    display: flex;
+    text-align: center;
+}
+
+.sec1_md5_d1_p1 {
+    font-size: 19px;
+    text-align: center;
+    display: flex;
+    margin-top: 60px;
+}
+
+.sec1_md5_d1_p2 {
+    margin-top: 41px;
+    margin-left: 248px;
+    color: rgb(147, 99, 95);
+}
+
+.sec1_md5_d2 {
+    margin-left: 244px;
+    margin-top: 75px;
+}
+
+.sec1_md6 {
+    display: flex;
+}
+
+.sec1_md6_d1 {
+    margin-top: 70px;
+    margin-left: 446px;
+}
+
+.sec1_md6_d1 h1 {
+    font-size: 28px;
+}
+
+.sec1_md6_d1 p {
+    font-size: 20px;
+    margin-top: 19px;
+}
+
+.sec1_md6_d2 {
+    margin-top: 124px;
+    margin-left: 347px;
+    font-size: 24px;
+    border: 2px solid black;
+    padding: 18px 56px 18px 56px;
+}
+
+.footer {
+    margin-top: 130px;
+    background-color: black;
+    color: #dbd7d7;
+}
+
+.footer_m1 {
+    display: flex;
+}
+
+.footer_m1_div {
+    padding: 90px 77px;
+}
+
+.footer_m1_p1 {
+    font-size: 17px;
+    color: grey;
+}
+
+.footer_m1_p2 {
+    padding-top: 10px;
+}
+
+.footer_m1_p3 {
+    padding-top: 158px;
+    font-size: 50px;
+}
+
+.footer_m1_div1 {
+    padding: 90px 77px;
+    padding-left: 680px;
+}
+
+.footer_m1_div2 {
+    padding: 90px 77px;
+}
+
+.footer_m1_div1_P {
+    padding-top: 4px;
+    color: grey;
+}
+
+.footer_m1_div1_P1 {
+    padding-top: 211px;
+    font-size: 18px;
+}
+
+.footer_m1_div2_P {
+    padding-top: 4px;
+    color: grey;
+}
+
+.footer_m1_div2_P1 {
+    padding-top: 189px;
+    font-size: 18px;
+}
